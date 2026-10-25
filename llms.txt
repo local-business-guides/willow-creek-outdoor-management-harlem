@@ -25,6 +25,9 @@
 - [Affordable Landscaping Company Grovetown Harlem: Hiring Guide](https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/affordable-landscaping-company-grovetown-harlem/): Hiring an affordable landscaping company in Grovetown and Harlem, GA? Use this homeowner guide, then call Willow Creek Outdoor Management.
 - [Landscaper Harlem GA Guide for Homeowners Before You Hire](https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/landscaper-harlem/): Thinking about hiring a landscaper in Harlem, GA? Use this checklist of questions, mistakes to avoid and prep tips from Willow Creek Outdoor Management.
 
+## Newsroom
+- [Willow Creek Shares Grovetown Landscaping Guide and Podcast Episode](https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/news/2026-10-25-willow-creek-shares-grovetown-landscaping-guide-an/): Willow Creek Outdoor Management published a guide about landscaping companies in Grovetown and a podcast episode this week. (2026-10-25)
+
 ## Pages
 - [Landscaping Company Grovetown in Harlem, Georgia](https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/): Lawn care, landscape design and hardscaping for Harlem, Georgia homeowners, from a local team on Emerson Dr. Call +1706-829-6004.
 - [About Willow Creek Outdoor Management in Harlem, GA](https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/about/): About Willow Creek Outdoor Management, Harlem.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/news/rss.xml)
 - [Main resource site](https://willow-creek-harlem-landscapes.localwebsites.chatgpt.site)

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/sitemap.xml
+Sitemap: https://local-business-guides.github.io/willow-creek-outdoor-management-harlem/news-sitemap.xml
